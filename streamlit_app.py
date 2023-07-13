@@ -74,4 +74,4 @@ st.latex(r'''
     a \left(\frac{1-r^{n}}{1-r}\right)
     ''',help = "数学公式 st.latex")
 
-
+st.write("密码隐私:", st.secrets["password"])
